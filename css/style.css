@@ -14,3 +14,6 @@ div {
       clear: both;
       text-align: center;
   }
+  #neighborhoods2,#sel2{
+    display: none;
+  }
